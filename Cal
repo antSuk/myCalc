@@ -1,0 +1,16 @@
+echo "[!] Preparing System for Update"
+echo "[*] ============================"
+start-sleep -s 1
+echo "[*]"
+start-sleep -s 1
+echo "[*]"
+start-sleep -s 1
+echo "[*]"
+echo "[!] Starting Update Process."
+echo "[*] ============================"
+start-sleep -s 1
+echo "[*]"
+start-sleep -s 1
+echo "[*]"
+start-sleep -s 1
+echo "[*]"
